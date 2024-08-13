@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.main-content {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.image-container img {
+    width: 75%; /* Adjust the size as needed */
+    max-width: 1000px; /* Maximum width for the image */
+    display: block;
+    margin: 0 auto;
+}
+
+.buttons-container {
+    margin-top: 30px;
+}
+
+.button {
+    display: block;
+    width: 200px; /* Adjust the button width */
+    margin: 10px auto;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,25 @@
+body {
+    background-image: url('hotel.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This will make the background image fixed even when scrolling */
+  }
+
+  /* globalStyles.css */
+
+body {
+    background-color: #f0f0f0; /* Set a background color for the entire page, if needed */
+  }
+  
+  table {
+    background-color: white; /* Set the background color of tables to white */
+    /* Add additional table styles here if needed */
+  }
+  
+  form {
+    background-color: white; /* Set the background color of forms to white */
+    /* Add additional form styles here if needed */
+  }
+  
+  /* Add other global styles as needed */
+  
